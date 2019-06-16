@@ -23,3 +23,4 @@
 * [Medium guide to making a deep actor-critic bot for stock trading](https://towardsdatascience.com/a-blundering-guide-to-making-a-deep-actor-critic-bot-for-stock-trading-c3591f7e29c2)
 * [MIT Deep Learning Basics: Introduction and Overview](https://www.youtube.com/watch?v=O5xeyoRL95U&feature=youtu.be)
 * [Ted - How A.I. Traders Will Dominate Hedge Fund Industry](https://www.youtube.com/watch?v=lzaBbQKUtAA&t=466s)
+* [Git Structure](https://drivendata.github.io/cookiecutter-data-science/)
