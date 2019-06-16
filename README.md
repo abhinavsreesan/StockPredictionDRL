@@ -9,14 +9,18 @@
 ## ToDo(to be updated)
 
 ### In Progress
+*
 
 ### Completed
 * Data Extraction
 * Data Consolidation
 
 ### Not Yet Started
+*
 
+## Useful Links
 
-##Useful Links
-
-* <https://www.kaggle.com/itoeiji/deep-reinforcement-learning-on-stock-data>
+* [Kaggle Kernel for Deep Reinforcement Learning on Stock Data](https://www.kaggle.com/itoeiji/deep-reinforcement-learning-on-stock-data)
+* [Medium guide to making a deep actor-critic bot for stock trading](https://towardsdatascience.com/a-blundering-guide-to-making-a-deep-actor-critic-bot-for-stock-trading-c3591f7e29c2)
+* [MIT Deep Learning Basics: Introduction and Overview](https://www.youtube.com/watch?v=O5xeyoRL95U&feature=youtu.be)
+* [Ted - How A.I. Traders Will Dominate Hedge Fund Industry](https://www.youtube.com/watch?v=lzaBbQKUtAA&t=466s)
