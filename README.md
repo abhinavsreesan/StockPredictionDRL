@@ -6,3 +6,12 @@
 
 [Consolidated Data](https://drive.google.com/drive/folders/1b1jiY7fVdhw_Ojj_YqNbdgSxQP5tIkRd)
 
+## ToDo
+
+### In Progress
+
+### Completed
+* Data Extraction
+* Data Consolidation
+
+### Not Yet Started
