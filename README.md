@@ -15,3 +15,8 @@
 * Data Consolidation
 
 ### Not Yet Started
+
+
+##Useful Links
+
+* <https://www.kaggle.com/itoeiji/deep-reinforcement-learning-on-stock-data>
